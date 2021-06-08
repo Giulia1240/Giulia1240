@@ -1,7 +1,7 @@
 
 # Welcome :octocat:
 
-<div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
+
 
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
 
@@ -28,4 +28,4 @@
 <p> - Games :video_game:</p>
 
 
-
+<div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />

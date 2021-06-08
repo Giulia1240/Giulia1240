@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Giulia1240/Giulia1240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Welcome :octocat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Angular](https://img.shields.io/badge/-Angular-red)
+
+### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão :books:
+Meu nome é Giulia e eu sou estudante do Curso Analise e Desenvolvimento de sistema.Portanto, eu sou uma programadora iniciante em que esta buscando aprender cada vez mais :computer: 
+
+### Conhecimentos
+![Linguagem C e C++](https://img.shields.io/badge/-C%20e%20C%2B%2B-blue)
+![Java](https://img.shields.io/badge/-Java-orange)
+![Angular](https://img.shields.io/badge/-Angular-red)
+
+
+### Meta:
+<p>-Viajar por diversos paises :earth_americas: </p> 
+<p>Aprimorar cada vez mais na área de tecnologia :robot:</p> 
+
+### Hobbies
+<p>-Desenhar :art:
+<p>- Séries e filmes :clapper:</p>
+<p>- Games :video_game:</p>
+
+
+

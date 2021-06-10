@@ -18,14 +18,4 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia1240&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
 
 
-### Meta:
-<p> -Viajar por diversos paises :earth_americas: </p> 
-<p> -Aprimorar cada vez mais na área de tecnologia :robot:</p> 
-
-### Hobbies
-<p> -Desenhar :art:
-<p> - Séries e filmes :clapper:</p>
-<p> - Games :video_game:</p>
-
-
 <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />

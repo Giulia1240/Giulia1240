@@ -18,12 +18,12 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia1240&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
 
 
-<div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
-
-
  ### Hobby
  
  <p>Series e Filmes :clapper:</p>
  <p>Games  :video_game:</p>
  <p>Desenhar :art:</p>
+ 
+ <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
+
  

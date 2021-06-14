@@ -5,7 +5,7 @@
 
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
 
- Meu nome é Giulia e eu sou estudante do Curso Analise e Desenvolvimento de sistema.Portanto, eu sou uma programadora iniciante em que esta buscando aprender cada vez mais :computer:
+ Olá!Eu sou a Giulia e eu sou estudante do Curso Analise e Desenvolvimento de sistema.Com isto, eu sou uma programadora iniciante em que esta buscando aprender cada vez mais :computer:
  </div>
 
 ### Conhecimentos
@@ -19,3 +19,9 @@
 
 
 <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
+
+ ###Hobby
+ -Series e Filmes :clapper:
+ -Games  :video_game:
+ -Desenhar :art:
+ 

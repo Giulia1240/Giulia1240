@@ -21,7 +21,7 @@
 <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
 
  ###Hobby
- -Series e Filmes :clapper:
- -Games  :video_game:
- -Desenhar :art:
+ <p>Series e Filmes :clapper:</p>
+ <p>Games  :video_game:</p>
+ <p>Desenhar :art:</p>
  

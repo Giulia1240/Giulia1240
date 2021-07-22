@@ -18,6 +18,8 @@
 ![Linguagem C e C++](https://img.shields.io/badge/-C%20e%20C%2B%2B-blue)
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![Angular](https://img.shields.io/badge/-Angular-red)
+![Typescript](https://img.shields.io/badge/-Typescript-purple)
+![GraphSQL](https://img.shields.io/badge/-GraphSQL-pink)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brightgreen)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-yellowgreen)
 

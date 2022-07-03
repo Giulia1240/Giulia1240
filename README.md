@@ -5,7 +5,7 @@
 
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
 
- Olá!Eu sou a Giulia e eu sou estudante do Curso Analise e Desenvolvimento de sistema.Com isto, eu sou uma programadora iniciante em que esta buscando aprender cada vez mais :computer:
+ Olá!Eu sou a Giulia e trabalho como analista de segurança da informação , porem atualmente eu sou estudante do Curso Analise e Desenvolvimento de sistema.Com isto, eu sou uma programadora iniciante em que esta buscando aprender cada vez mais :computer:
  </div>
  
   ### Hobby

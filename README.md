@@ -5,7 +5,7 @@
 
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
 
- Olá! Eu me chamo  Giulia e trabalho como analista de segurança da informação, porém atualmente  sou estudante de análise e desenvolvimento de sistema como também uma programadora iniciante, buscando aprender cada vez mais sobre este mundo. Sejam Bem vindos a meu perfil :black_heart: :computer: :black_heart:
+ Olá! Eu me chamo  Giulia e trabalho como analista de segurança da informação, porém atualmente  sou estudante de análise e desenvolvimento de sistema como também uma programadora iniciante, buscando aprender cada vez mais sobre este mundo. Sejam Bem vindos ao meu perfil :black_heart: :computer: :black_heart:
  </div>
  
   ### Hobby

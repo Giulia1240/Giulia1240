@@ -24,7 +24,7 @@
 ![DBeaver](https://img.shields.io/badge/-DBeaver-yellowgreen)
 
 ## GitHub Status
- ![giulia1240 github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)
+ ![giulia github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia1240&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
 
  

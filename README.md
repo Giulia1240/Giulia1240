@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/-JavaScript-yellow)
 ![Python](https://img.shields.io/badge/-Python-purple)
 ![GraphSQL](https://img.shields.io/badge/-GraphSQL-pink)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-brightgreen)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-yellowgreen)
 
 ## GitHub Status

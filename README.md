@@ -21,7 +21,8 @@
 ![Python](https://img.shields.io/badge/-Python-purple)
 ![GraphSQL](https://img.shields.io/badge/-GraphSQL-pink)
 ![SQL](https://img.shields.io/badge/SQL-brightgreen)
-![DBeaver](https://img.shields.io/badge/-DBeaver-yellowgreen)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-yellowgreen)
+![Docker](https://img.shields.io/badge/-C%20e%20C%2B%2B-darkblue)
 
 ## GitHub Status
  ![giulia github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)

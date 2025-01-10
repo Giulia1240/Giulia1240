@@ -20,18 +20,17 @@
 ## GitHub Status
  ![giulia github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia1240&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
-
-  
   
   <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
- 
+ <br> <br> <br>
  <div>
   <h4>📫 Connect with Me</h4>
   <a href="https://github.com/Giulia1240" target="_blank">GitHub</a> | 
   <a href="mailto:giuliaforlin2009@gmail.com">Email</a>
 </div>
-
+ <br>
 ![GitHub stars](https://img.shields.io/github/stars/Giulia1240?tab=stars.svg)
+ <br>
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 

@@ -28,11 +28,6 @@
   <a href="https://github.com/Giulia1240" target="_blank">GitHub</a> | 
   <a href="mailto:giuliaforlin2009@gmail.com">Email</a>
 </div>
-<div></div>
-<div></div>
-
-![GitHub stars](https://img.shields.io/github/stars/Giulia1240?tab=stars.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 

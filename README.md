@@ -23,9 +23,9 @@
 
   
   
-  <div align="center"><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
+  <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
  
- <div align="center">
+ <div>
   <h4>📫 Connect with Me</h4>
   <a href="https://github.com/Giulia1240" target="_blank">GitHub</a> | 
   <a href="mailto:giuliaforlin2009@gmail.com">Email</a>

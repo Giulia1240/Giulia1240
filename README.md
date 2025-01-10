@@ -31,5 +31,5 @@
  
  <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
 

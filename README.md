@@ -24,10 +24,9 @@
 <p>
   <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="80%"/>
 </p>
- <br> <br> <br>
  <div>
-
-## Actions
+  
+## Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh" /><a>
 

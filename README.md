@@ -31,7 +31,7 @@ Criatividade :heavy_check_mark:
 <img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh"/><a>
 
 
-## <img height="25" src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif"/> Obrigada por visitar meu Perfil!
+## Obrigada por visitar meu Perfil!
 
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 

@@ -15,7 +15,7 @@
  <p>Desenhar :art:</p>
 
 ### Conhecimentos
-[![My Skills](https://skillicons.dev/icons?i=c,js,java,python,html,postgres,mysql,graphql,kubernetes,docker,terraform,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,java,python,html,postgres,mysql,graphql,kubernetes,docker,terraform,gitlab,linux,windows)](https://skillicons.dev)
 
 ## GitHub Status
  ![giulia github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)

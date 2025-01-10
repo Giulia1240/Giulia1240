@@ -31,5 +31,5 @@
  
  <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
 
- [![My Skills](https://skillicons.dev/icons?i=js,java,html,jenkins,linux,postgres,kubernetes,python,graphsql,kubernetes,docker,mysql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,java,html,jenkins,linux,postgres,kubernetes,python,graphql,kubernetes,docker,mysql)](https://skillicons.dev)
 

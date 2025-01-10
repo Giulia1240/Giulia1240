@@ -1,6 +1,6 @@
 
 <p>
-  <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="60%"/>
+  <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="30%"/>
 </p>
 
 # Welcome :octocat:

@@ -13,12 +13,6 @@
   <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="50%"/>
 </p>
  
-  ## Hobby
- 
- <p>Series e Filmes :clapper:</p>
- <p>Games  :video_game:</p>
- <p>Desenhar :art:</p>
-
 
 ## Conhecimentos
 [![My Skills](https://skillicons.dev/icons?i=c,js,java,python,html,postgres,mysql,graphql,kubernetes,docker,terraform,gitlab,linux,windows)](https://skillicons.dev)

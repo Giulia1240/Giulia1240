@@ -4,7 +4,7 @@
 
  ### "The most important thing for a man is to realize how he should make use of his own knowledge". Platão 
 
-Hello Folks! I work as an information security analyst, but I am now a starting programmer and enrolled in the System Development Analysis course.
+Hello Folks! I work as an information security analyst, but I am now a beginner programmer and enrolled in the System Development Analysis course.
 
 ## Soft Skills
 Team work :heavy_check_mark: <br>

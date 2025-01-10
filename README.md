@@ -1,7 +1,7 @@
 
 
 # Welcome :octocat:
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
+
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
 
  Olá! Eu  trabalho como analista de segurança da informação, porém atualmente  sou estudante de análise e desenvolvimento de sistema como também uma programadora iniciante. Sejam Bem vindos ao meu perfil

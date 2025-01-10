@@ -9,9 +9,9 @@
  
 ## Soft Skills
 
-Trabalho em equipe :heavy_check_mark:
-Perfil Analitico :heavy_check_mark:
-Adaptabilidade :heavy_check_mark:
+Trabalho em equipe :heavy_check_mark: <br>
+Perfil Analitico :heavy_check_mark: <br>
+Adaptabilidade :heavy_check_mark: <br>
 Criatividade :heavy_check_mark:
 
 ## Conhecimentos

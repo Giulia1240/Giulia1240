@@ -6,18 +6,18 @@
 
  Olá! Eu  trabalho como analista de segurança da informação, porém atualmente  sou estudante de análise e desenvolvimento de sistema como também uma programadora iniciante. Sejam Bem vindos ao meu perfil :black_heart: :computer: :black_heart:
  </div>
+
+ ## Actions
+
+<p>
+  <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="50%"/>
+</p>
  
   ## Hobby
  
  <p>Series e Filmes :clapper:</p>
  <p>Games  :video_game:</p>
  <p>Desenhar :art:</p>
-
-## Actions
-
-<p align ="center">
-  <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="50%"/>
-</p>
 
 
 ## Conhecimentos

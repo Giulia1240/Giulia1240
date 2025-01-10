@@ -17,15 +17,15 @@ Criatividade :heavy_check_mark:
 ## Conhecimentos
 [![My Skills](https://skillicons.dev/icons?i=c,js,java,python,html,postgres,mysql,graphql,kubernetes,docker,terraform,gitlab,linux,windows)](https://skillicons.dev)
 
-## GitHub Status
- ![giulia github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia1240&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
-
 ## Ações
 <p>
   <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="50%"/>
 </p>
    
+## GitHub Status
+ ![giulia github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia1240&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
+ 
 ## Troféus
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh"/><a>

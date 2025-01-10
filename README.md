@@ -31,12 +31,9 @@ Criatividade :heavy_check_mark:
 <img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh"/><a>
 
 
-## Obrigada pro visitar meu Perfil!
+##  Obrigada pro visitar meu Perfil!
 
----
-<p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
  

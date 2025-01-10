@@ -1,4 +1,4 @@
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Giulia1240" alt="Giulia1240" /></p>
 
 # Bem vindo <img height="25" src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif"/>
 

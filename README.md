@@ -1,18 +1,16 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Giulia1240" alt="Giulia1240" /></p>
 
-# Bem vindo <img height="25" src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif"/>
+# Welcome <img height="25" src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif"/>
 
- ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
+ ### "The most important thing for a man is to realize how he should make use of his own knowledge". Platão 
 
- Olá! Eu  trabalho como analista de segurança da informação, porém atualmente  sou estudante de análise e desenvolvimento de sistema como também uma programadora iniciante. Sejam Bem vindos ao meu perfil
- </div>
- 
+Hello Folks! I work as an information security analyst, but I am now a starting programmer and enrolled in the System Development Analysis course.
+
 ## Soft Skills
-
-Trabalho em equipe :heavy_check_mark: <br>
-Perfil Analitico :heavy_check_mark: <br>
-Adaptabilidade :heavy_check_mark: <br>
-Criatividade :heavy_check_mark:
+Team work :heavy_check_mark: <br>
+Analytic Profile :heavy_check_mark: <br>
+Adaptability :heavy_check_mark: <br>
+Creativity :heavy_check_mark: <br>
 
 ## Conhecimentos
 [![My Skills](https://skillicons.dev/icons?i=c,js,java,python,html,postgres,mysql,graphql,kubernetes,docker,terraform,gitlab,linux,windows)](https://skillicons.dev)

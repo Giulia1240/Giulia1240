@@ -28,7 +28,7 @@
   
 ## Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh"/><a>
+<img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh"  width="60%"/><a>
 
 
 

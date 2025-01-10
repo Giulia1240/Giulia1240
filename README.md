@@ -22,7 +22,7 @@
   
 ## Views
 <p>
-  <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:Giulia1240?theme=ai-1" width="80%"/>
+  <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:Giulia1240?theme=kyun" width="80%"/>
 </p>
  <br> <br> <br>
  <div>

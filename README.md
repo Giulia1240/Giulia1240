@@ -13,7 +13,7 @@
  <p>Series e Filmes :clapper:</p>
  <p>Games  :video_game:</p>
  <p>Desenhar :art:</p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### Conhecimentos
 ![Linguagem C e C++](https://img.shields.io/badge/-C%20e%20C%2B%2B-blue)
 ![Java](https://img.shields.io/badge/-Java-orange)
@@ -31,4 +31,5 @@
  
  <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
 
- 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+

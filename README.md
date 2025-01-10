@@ -20,7 +20,7 @@
  ![giulia github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia1240&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
   
-## Views
+## Actions
 <p>
   <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="80%"/>
 </p>

@@ -26,6 +26,9 @@
 </p>
  <br> <br> <br>
  <div>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh" /><a>
+</p>
   <h4>📫 Connect with Me</h4>
   <a href="https://github.com/Giulia1240" target="_blank">GitHub</a> | 
   <a href="mailto:giuliaforlin2009@gmail.com">Email</a>

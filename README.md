@@ -2,7 +2,7 @@
 # Welcome :octocat:
 
 <p align="center">
-  <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:Giulia1240?theme=booru-townofgravityfalls" width="80%"/>
+  <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:Giulia1240?theme=ai-1" width="80%"/>
 </p>
 
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 

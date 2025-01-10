@@ -1,9 +1,6 @@
 
 # Welcome :octocat:
 
-<p align="center">
-  <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:Giulia1240?theme=ai-1" width="80%"/>
-</p>
 
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
 
@@ -23,7 +20,10 @@
  ![giulia github stats](https://github-readme-stats.vercel.app/api?username=Giulia1240&show_icons=true&theme=nightowl)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia1240&layout=compact&theme=nightowl)](https://github.com/Giulia1240/github-readme-stats)
   
-  <div><img  height="250" width="250" src="https://www.inventateq.com/assets/python/small.gif" alt="Giulia1240" />
+##Views
+<p align="center">
+  <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:Giulia1240?theme=ai-1" width="80%"/>
+</p>
  <br> <br> <br>
  <div>
   <h4>📫 Connect with Me</h4>

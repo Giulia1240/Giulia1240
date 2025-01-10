@@ -22,13 +22,13 @@
   
 ## Actions
 <p>
-  <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="50%"/>
+  <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="60%"/>
 </p>
  <div>
   
 ## Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh" width="30%" /><a>
+<img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh"/><a>
 
 
 

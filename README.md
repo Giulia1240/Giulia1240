@@ -1,9 +1,9 @@
 
-# Welcome :octocat:
-
 <p>
   <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="60%"/>
 </p>
+
+# Welcome :octocat:
 
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
 

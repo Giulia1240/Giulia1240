@@ -26,6 +26,8 @@
 </p>
  <br> <br> <br>
  <div>
+  
+## Trophies
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Giulia1240&theme=juicyfresh" /><a>
 </p>

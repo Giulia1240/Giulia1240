@@ -22,7 +22,7 @@
   
 ## Actions
 <p>
-  <a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="80%"/>
+<a href="https://github.com/Giulia1240"><img src="https://count.getloli.com/get/@:Giulia1240?theme=minecraft" width="80%"/>
 </p>
  <div>
   
